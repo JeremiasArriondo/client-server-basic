@@ -1,0 +1,28 @@
+{
+  "name": "client-server-basic",
+  "version": "1.0.0",
+  "description": "Practica cliente servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremiasArriondo/client-server-basic.git"
+  },
+  "keywords": [
+    "practica",
+    "modelo",
+    "cliente",
+    "servidor"
+  ],
+  "author": "Jeremias Arriondo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeremiasArriondo/client-server-basic/issues"
+  },
+  "homepage": "https://github.com/JeremiasArriondo/client-server-basic#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
